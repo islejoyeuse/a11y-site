@@ -327,7 +327,7 @@ nav .mbr-section-btn {
   transform: rotate(-90deg); }
 
 /*! Arrow Down */
-.mbr-arrow {
+/* .mbr-arrow {
   position: absolute;
   bottom: 45px;
   left: 50%;
@@ -375,7 +375,7 @@ nav .mbr-section-btn {
     left: 50%;
     right: auto;
     transform: translateX(-50%) rotate(180deg);
-    -webkit-transform: translateX(-50%) rotate(180deg); } }
+    -webkit-transform: translateX(-50%) rotate(180deg); } } */
 /*Gradients animation*/
 @keyframes gradient-animation {
   from {
